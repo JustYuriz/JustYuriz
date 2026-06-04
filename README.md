@@ -1,6 +1,6 @@
 ## Hi there 👋 JustYuriz here. 
 
-  *I do stuff*, or at least I ##try
+  *I do stuff*, or at least I ## try
 
 <!--
 **JustYuriz/JustYuriz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
